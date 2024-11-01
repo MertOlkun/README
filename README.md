@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertolkun&label=Profile%20views&color=0e75b6&style=flat" alt="mertolkun" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Unity, UnrealEngine**
+- 🌱 I’m currently learning **JavaScript, C#, Unity**
 
-- 💬 Ask me about **NodeJS, Express, Mysql and MongoDB**
+- 💬 Ask me about **NodeJS, Express, Dotnet, Mysql**
 
 - 📫 How to reach me **mert_olkun_26@outlook.com**
 
